@@ -1,0 +1,5 @@
+﻿@clearlocal soldier
+spawn src=factory x=44 y=25 type=SoldierEntity name=soldier
+@track soldier Position
+
+@control dst=soldier

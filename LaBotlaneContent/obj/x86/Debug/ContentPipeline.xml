@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>textures\tileset.png</Source>
+      <Name>textures\tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\tileset.xnb</Output>
+      <Time>2014-04-01T15:57:14.0879102+02:00</Time>
+    </Item>
+    <Item>
+      <Source>segoe_ui.png</Source>
+      <Name>segoe_ui</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\segoe_ui.xnb</Output>
+      <Time>2014-04-01T15:57:14.0759018+02:00</Time>
+    </Item>
+    <Item>
+      <Source>segoe_ui_16.png</Source>
+      <Name>segoe_ui_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\segoe_ui_16.xnb</Output>
+      <Time>2014-04-01T15:57:14.2550214+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\select_mark.png</Source>
+      <Name>textures\select_mark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\select_mark.xnb</Output>
+      <Time>2014-04-01T15:57:14.0819058+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\gui\menu.png</Source>
+      <Name>textures\gui\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\gui\menu.xnb</Output>
+      <Time>2014-04-01T15:57:14.1029199+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\gui\cursor.png</Source>
+      <Name>textures\gui\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\gui\cursor.xnb</Output>
+      <Time>2014-04-01T15:57:14.1129262+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\gui\menu_item.png</Source>
+      <Name>textures\gui\menu_item</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\gui\menu_item.xnb</Output>
+      <Time>2014-04-01T15:57:14.0979164+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\gui\menu_item_hover.png</Source>
+      <Name>textures\gui\menu_item_hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\gui\menu_item_hover.xnb</Output>
+      <Time>2014-04-01T15:57:14.1079231+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\icons\attack.png</Source>
+      <Name>textures\icons\attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\icons\attack.xnb</Output>
+      <Time>2014-04-01T15:57:14.1669625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\icons\move.png</Source>
+      <Name>textures\icons\move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\icons\move.xnb</Output>
+      <Time>2014-04-01T15:57:14.1619594+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\fog.png</Source>
+      <Name>textures\fog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\fog.xnb</Output>
+      <Time>2014-04-01T15:57:14.0929125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\highlight_mark.png</Source>
+      <Name>textures\highlight_mark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\highlight_mark.xnb</Output>
+      <Time>2014-04-01T15:57:14.1549549+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shaders\lightning.fx</Source>
+      <Name>shaders\lightning</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\shaders\lightning.xnb</Output>
+      <Time>2014-04-23T10:59:02.0565347+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shaders\mode7.fx</Source>
+      <Name>shaders\mode7</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\shaders\mode7.xnb</Output>
+      <Time>2014-04-19T08:51:15.1045887+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\gui\textbox.png</Source>
+      <Name>textures\gui\textbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\textures\gui\textbox.xnb</Output>
+      <Time>2014-04-17T10:25:51.9633185+02:00</Time>
+    </Item>
+    <Item>
+      <Source>courrier-16pt.png</Source>
+      <Name>courrier-16pt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\courrier-16pt.xnb</Output>
+      <Time>2014-04-19T16:22:26.954763+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlaneContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlaneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\scriptopathe\Documents\Josue\[Projets]\Projets C#\LaBotlane\LaBotlane-svn\LaBotlane\LaBotlane\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-21T20:38:21.9811321+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

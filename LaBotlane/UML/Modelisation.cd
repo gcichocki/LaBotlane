@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Labotlane.Scenes.Scene">
+    <Position X="16.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAEAAAADAACgAAAACAAAAAAAA4JAJAQAACABABASA=</HashCode>
+      <FileName>Scenes\Scene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.AnimationStateNode">
+    <Position X="16.25" Y="14" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAIAACAAAAAAAAAAAAAAAAAACAAABAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\AnimationStateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.AnimationStateManager">
+    <Position X="16.25" Y="11.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAAABAAA=</HashCode>
+      <FileName>GameComponents\Entities\AnimationStateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.BonusEntity">
+    <Position X="7.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIgAgAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\BonusEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.Entity">
+    <Position X="13" Y="11.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CLUAAGQIgCgQAsAgIUAAEAAIQIBBAAgAEQAAQCCAAAA=</HashCode>
+      <FileName>GameComponents\Entities\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.FactoryEntity">
+    <Position X="1" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAgAgAAgAAAAAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\FactoryEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.ForestEntity">
+    <Position X="5.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAgAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\ForestEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.GoldEntity">
+    <Position X="0.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIgAgAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\GoldEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.GroundEntity">
+    <Position X="5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIgAgAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\GroundEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.Interaction">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAgAAEAAACAQAAAAAAAAAAACAAACAACAAA=</HashCode>
+      <FileName>GameComponents\Entities\Interaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.MountainEntity">
+    <Position X="3.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIgAgAAgAAAAAAAAAAAIAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\MountainEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.SoldierEntity">
+    <Position X="7.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAUAAAAAgAgAAgAAAAAAAAAAAAABAAAAAQAAQAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\SoldierEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.SwampEntity">
+    <Position X="2.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIgAgAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\SwampEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Entities.WaterEntity">
+    <Position X="9.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAIgAgAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\WaterEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.GameMap">
+    <Position X="21.5" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Labotlane.GameComponents.GameMap.Position" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameComponents\GameMap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAYAAACISFAAEgEQxhBRCAAAEBRAhAAQIgCEAAAAEAg=</HashCode>
+      <FileName>GameComponents\GameMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Player">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIDAAAAAAAAAAgAAAAAAAAAIEAAAAQAAAAAAAAAAAE=</HashCode>
+      <FileName>GameComponents\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Ressources">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAgAAAAQAAABIICAAAAEAAAAAIIAAIAAQIAAACAAQ=</HashCode>
+      <FileName>GameComponents\Ressources.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Trajectory">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAIAAAAAgAAAgABAAAECBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Trajectory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Gui.Drawing">
+    <Position X="16.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>GameComponents\Gui\Drawing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Gui.GuiHeaderDisplay">
+    <Position X="37" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Gui\GuiHeaderDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Gui.GuiManager">
+    <Position X="34.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAMQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Gui\GuiManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Gui.GuiMenu">
+    <Position X="34.75" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Labotlane.GameComponents.Gui.GuiMenu.ItemSelectedDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameComponents\Gui\GuiMenu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="Labotlane.GameComponents.Gui.GuiMenu.GuiMenuItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameComponents\Gui\GuiMenu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ECQABAAAQAAACkAAAAAAAAAIgABAAQAAAAIAEAAAAAA=</HashCode>
+      <FileName>GameComponents\Gui\GuiMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Gui.GuiWidget">
+    <Position X="37" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAgQgAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Gui\GuiWidget.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Particles.Particle">
+    <Position X="31" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAgAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Particles\Particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Particles.ParticleBase">
+    <Position X="31" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Labotlane.GameComponents.Particles.ParticleBase.MoveDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameComponents\Particles\ParticleBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgQAAEEEECICIgQBCEAAABAAQQQgAoAAACAAgAAgBAE=</HashCode>
+      <FileName>GameComponents\Particles\ParticleBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Particles.ParticleManager">
+    <Position X="28.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAACAAAgAAAQAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Particles\ParticleManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Particles.ParticleText">
+    <Position X="29" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAgAAAAAAABAAAAAAAAAAAAAACAACAAA=</HashCode>
+      <FileName>GameComponents\Particles\ParticleText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.LaBotlane">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAEAAAAAAAAwBAgAAAACIAAAAAAAAAQAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Tile">
+    <Position X="23.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAgAgAEAAAAAAAAIAAEAAEAEAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Controlers.PlayerControler">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAECQAIAAAKCQAAAAFEAAAAAAIABEAAAAIAQAAAAA=</HashCode>
+      <FileName>GameComponents\Controlers\PlayerControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labotlane.GameComponents.Controlers.TestControler">
+    <Position X="8.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>GameComponents\Controlers\TestControler.cs</FileName>
+      <NewMemberFileName>GameComponents\Controlers\HumanPlayerControler.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Labotlane.GameComponents.Entities.AnimationState">
+    <Position X="11.5" Y="13.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\AnimationStateManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Labotlane.GameComponents.Entities.InteractionType">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAAAAAAIAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GameComponents\Entities\Interaction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Labotlane.GameComponents.Entities.TargetType">
+    <Position X="11.5" Y="11.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAACAAABIAAAAAAAEgAgIAAAAAAAAAAAFAA=</HashCode>
+      <FileName>GameComponents\Entities\TargetType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

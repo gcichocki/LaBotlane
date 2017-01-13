@@ -1,0 +1,33 @@
+1 : nom_de_la_map
+2 : taille_X, taille_Y
+3 : initial_gold
+4 : nbre_de_joueurs
+5->5+nbre_de_joueurs : FabriqueX FabriqueY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y                     P: Plains
+Y                     M: Mountains
+Y                     W: Water
+Y                     G: Mines(Gold)
+Y                     T: Tower
+Y                     F: Forest
+Y                     S: Swamp
+Y                     B: Bonus
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y

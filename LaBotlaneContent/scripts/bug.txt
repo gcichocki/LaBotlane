@@ -1,0 +1,20 @@
+﻿@clearlocal soldier
+@track soldier Pisition
+spawn src=factory x=20 y=20 tape=SoldierEntity name=soldier
+move soldier 2ds5 20
+move soldier 22 25
+@untracdek soldier Position
+
+
+
+# lolol
+# Commentaire test
+# move soldier 38 2
+# tralala
+#lebotlan est un génie
+#vial is awesome
+#move soldier dd 6
+#move soldidd 5 6
+#spawn scr=factory x=25 y=50 type=SoldierEntity name=patate
+#spiwn scr=factory x=25 y=50 type=SoldierEntity name=patate
+@control dst=soldier
